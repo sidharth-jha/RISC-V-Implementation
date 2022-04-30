@@ -1,5 +1,5 @@
 # RISCV-32I
-RTL Implementation of 5 Stage RV32I ISA
+RTL Implementation of Five Stage RV32I ISA
 ### How to Run
 Clone the Repo. Once a vivado project is opened add all the file in the /core folder as design sources. Making sure that riscv_cpu is the top module.
 
